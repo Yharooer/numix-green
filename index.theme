@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Numix
-Comment=A modern flat theme
+Name=Numix Green
+Comment=A green themed Numix
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Numix
-MetacityTheme=Numix
+GtkTheme=Numix Green
+MetacityTheme=Numix Green
 ButtonLayout=:minimize,maximize,close
