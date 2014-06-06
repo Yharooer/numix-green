@@ -1,6 +1,6 @@
-Numix is a modern flat theme with a combination of light and dark elements. It supports Gnome, Unity, XFCE and Openbox.
+Numix Green is a modern flat theme with a combination of light and dark elements. It supports Gnome, Unity, XFCE and Openbox.
 
-Numix is a part of the [Numix Project](http://numixproject.org).
+Numix Green is a fork of [Numix](https://github.com/shimmerproject/Numix). Numix is a part of the [Numix Project](http://numixproject.org).
 
 ### Manual installation
 
@@ -26,8 +26,6 @@ GTK+ 3.6 or above
 
 Murrine theme engine
 
-### Code and license
+### License
 
-Report bugs or contribute at [GitHub](https://github.com/shimmerproject/Numix)
-
-License: GPL-3.0+
+Numix Green is a fork of [Numix](https://github.com/shimmerproject/Numix) and is lisensed under [GPL-3.0+](https://github.com/shimmerproject/Numix/blob/master/LICENSE).
