@@ -7,20 +7,20 @@ Numix Green is a fork of [Numix](https://github.com/shimmerproject/Numix). Numix
 
 ### Manual installation
 
-Extract the zip file to the themes directory i.e. `/usr/share/themes/`
+Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/`.
 
 To set the theme in Gnome, run the following commands in Terminal,
 
 ```
-gsettings set org.gnome.desktop.interface gtk-theme "Numix"
-gsettings set org.gnome.desktop.wm.preferences theme "Numix"
+gsettings set org.gnome.desktop.interface gtk-theme "Numix Green"
+gsettings set org.gnome.desktop.wm.preferences theme "Numix Green"
 ```
 
 To set the theme in Xfce, run the following commands in Terminal,
 
 ```
-xfconf-query -c xsettings -p /Net/ThemeName -s "Numix"
-xfconf-query -c xfwm4 -p /general/theme -s "Numix"
+xfconf-query -c xsettings -p /Net/ThemeName -s "Numix Green"
+xfconf-query -c xfwm4 -p /general/theme -s "Numix Green"
 ```
 
 ### Requirements
